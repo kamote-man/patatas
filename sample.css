@@ -112,7 +112,7 @@ main{
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url(images/back3.jpg);
   background-repeat: no-repeat;
   background-size: 100vw 700px;
-  background-attachment: fixed;
+  background-attachment: initial;
 
   display: flex;
   align-items: center;
